@@ -33,4 +33,12 @@ The test suite includes:
 
 # To see the results - 
 
+Go to Actions -> Click on "fixed yml file" (2nd from last) -> checks for all 5 files
+
+Or Check the screenshots below - 
+
+
+
+
+
 
