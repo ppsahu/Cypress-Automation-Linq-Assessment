@@ -1,15 +1,13 @@
 ## Why did I choose Cypress testing suite?
 
-- I had 2 choices Cypress and Selenium
+- I had 2 choices Cypress and Selenium.
 - Even though I had comparatively more experience in Selenium, Cypress was more suitable to test since, the Linq webpage was developed in JavaScript.
-- Cypress is built to test on JavaScript
-- It also gives additional benefits like time travel capabilties, real-time loading, and easy to debug
-- One of the main davantages of Cypress it gives the capabilty to provide the selector, the selector stategies changes from teams to teams, but Cypress tool, gives a robust selector, while testing itself. It increased my efficiency while testing the webpage and I could think on the broader side without worrying about how to apply the strategies to get the selectors.
-
+- Cypress is built to test on JavaScript.
+- It also gives additional benefits like time travel capabilties, real-time loading, and easy to debug.
+- One of the main davantages of Cypress is, it gives the capabilty to provide the selector, the selector stategies changes from teams to teams, but Cypress tool, gives a robust selector, while testing itself on the Cypress Software UI. It increased my efficiency while testing the webpage and I could think on the broader side without worrying about how to apply the strategies to get the selectors/webelements.
 
 
 ## Instructions to Setup and Execute - 
-
 
 1. Prerequisites - 
 
@@ -19,6 +17,7 @@
     c. Cypress installed (you can install using "npm install cypress --save-dev")
 
 To run locally - 
+
 2. Clone the Github repository using https://github.com/ppsahu/Cypress-Automation-Linq-Assessment.git
 
 3. Open terminal -> type "npm install"
