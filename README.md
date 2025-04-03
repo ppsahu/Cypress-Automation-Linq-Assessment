@@ -34,7 +34,7 @@ The test suite includes:
 
 # To see the results - 
 
-Go to Actions -> Click on "fixed yml file" (2nd from last) -> checks for all 5 files
+Go to Actions -> Click on the latest commit -> Click on cypress run -> scroll below and see the results
 
 Or Check the screenshots below for each file- 
 
