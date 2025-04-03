@@ -1,4 +1,4 @@
-name: Cypress Tests on Linq
+name: Cypress Tests on Linq App
 
 on:
   push:
