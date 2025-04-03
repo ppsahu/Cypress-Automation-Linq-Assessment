@@ -27,6 +27,7 @@ The test suite includes:
 6. Click on any file and see the results. (Make Sure to read the documentation to see which file runs which tests)
 7. To see all results on terminal - type command "npx cypress run"
 8. To see specific file's results on terminal - type command "npx cypress run -s cypress/e2e/firstTestPhoneNumber.cy.js" (change the file name accordingly)
+9. If the checks are failed, please try the steps again (I would recommend to open cypress again for each test file).
 
 ## Folder Structure
 <img width="520" alt="Screenshot 2025-04-03 at 2 44 24 AM" src="https://github.com/user-attachments/assets/cfe561a8-6581-4922-ac75-772de2b0ac2f" />
