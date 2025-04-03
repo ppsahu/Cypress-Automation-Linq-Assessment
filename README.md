@@ -35,10 +35,21 @@ The test suite includes:
 
 Go to Actions -> Click on "fixed yml file" (2nd from last) -> checks for all 5 files
 
-Or Check the screenshots below - 
+Or Check the screenshots below for each file- 
 
+checkEmail.cy.js - 
+<img width="1115" alt="Screenshot 2025-04-03 at 3 32 42 AM" src="https://github.com/user-attachments/assets/d0aa658d-1937-4c4a-a811-c5c326800e16" />
 
+explicitAssertionsOnLinqPhoneNumber.cy.js - 
+<img width="1444" alt="Screenshot 2025-04-03 at 3 33 37 AM" src="https://github.com/user-attachments/assets/230c248f-2e50-491b-8aa1-f26d130eaf77" />
 
+firstTestPhoneNumber.cy.js - 
+<img width="1444" alt="Screenshot 2025-04-03 at 3 33 54 AM" src="https://github.com/user-attachments/assets/54fcd1de-e4dd-41a0-83e9-ecb809d2342f" />
 
+implicitAssertionsOnLinqUI.cy.js - 
+<img width="1444" alt="Screenshot 2025-04-03 at 3 34 14 AM" src="https://github.com/user-attachments/assets/de4b253e-a73b-4b1c-a62a-cb688d3b58b6" />
+<img width="1444" alt="Screenshot 2025-04-03 at 3 34 32 AM" src="https://github.com/user-attachments/assets/b43e63cb-3b12-4940-b6b3-a9dcfb389cc8" />
+<img width="1444" alt="Screenshot 2025-04-03 at 3 34 41 AM" src="https://github.com/user-attachments/assets/83186174-7779-4d82-bb8b-f955e6eba2d2" />
 
-
+test1VisitWebpage.cy.js -
+<img width="1444" alt="Screenshot 2025-04-03 at 3 35 24 AM" src="https://github.com/user-attachments/assets/4635bfa6-b4b7-44c2-8fb0-3e5ceefc508f" />
