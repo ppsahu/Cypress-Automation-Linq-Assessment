@@ -56,5 +56,6 @@ test1VisitWebpage.cy.js -
 <img width="1444" alt="Screenshot 2025-04-03 at 3 35 24 AM" src="https://github.com/user-attachments/assets/4635bfa6-b4b7-44c2-8fb0-3e5ceefc508f" />
 
 Result on VS Code terminal - for all 5 files
-<img width="1444" alt="Screenshot 2025-04-03 at 3 35 24 AM" src="https://github.com/user-attachments/assets/85391525-8ae7-4d25-9720-c51895ec4bf0" />
+<img width="1444" alt="Screenshot 2025-04-03 at 3 59 01 AM" src="https://github.com/user-attachments/assets/bda4ebfb-568d-4da7-a3cc-7d2187d7cfe4" />
+
 
