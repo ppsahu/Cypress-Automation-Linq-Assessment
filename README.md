@@ -13,10 +13,9 @@ The test suite includes:
 
 ## Prerequisites - 
 
-    a. Suitable IDE of your choice (VS Code, Selenium, Sublime, ....), I used Vs Code to develop the testing suite
-
-    b. Node Version >=16 recommended
-    c. Cypress installed (you can install using "npm install cypress --save-dev")
+1. Suitable IDE of your choice (VS Code, Selenium, Sublime, ....), I used Vs Code to develop the testing suite
+2. Node Version >=16 recommended
+3. Cypress installed (you can install using "npm install cypress --save-dev")
 
 ## To run locally - 
 
@@ -30,4 +29,5 @@ The test suite includes:
 8. To see specific file's results on terminal - type command "npx cypress run -s cypress/e2e/firstTestPhoneNumber.cy.js" (change the file name accordingly)
 
 ## Folder Structure
+<img width="520" alt="Screenshot 2025-04-03 at 2 44 24 AM" src="https://github.com/user-attachments/assets/cfe561a8-6581-4922-ac75-772de2b0ac2f" />
 
